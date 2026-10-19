@@ -1,0 +1,8 @@
+{
+  "name": "BasItna - Privacy-Preserving Identity Verification",
+  "description": "Proof, Not Data. Bas itna hi chahiye. Privacy-preserving identity verification layer replacing sensitive CNIC data sharing with HMAC-protected, audience-bound verification tokens and AI form privacy scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
